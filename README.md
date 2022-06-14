@@ -1,3 +1,5 @@
+Branch master: 
+
 Pacote para buscar preço de criptomoeda, valor de mercado, ativos etc. usando terminais de API coincap. Este pacote foi desenvolvido para funcionar com a API coincap, que possui uma ferramenta útil para preços em tempo real e atividade de mercado para mais de 1.000 criptomoedas. Ao coletar dados de câmbio de milhares de mercados, também oferece dados transparentes e precisos sobre preço e disponibilidade de ativos.
 
 Para todos os endpoints, uma única página oferece 100 respostas por padrão e suporta até 2.000 respostas por página mediante solicitações.
