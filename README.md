@@ -18,6 +18,11 @@ WisdomDiala\Cryptocap\Providers\CryptocapServiceProvider::class,
 // Aliase
 'Cryptocap' => WisdomDiala\Cryptocap\Facades\Cryptocap::class,
 
+--------------------------------------------------------------
+
+Caso não abra no seu localhost tente usar no prompt da pasta:
+php artisan serve --port=8000
+
 Abaixo estão as fachadas que você pode usar para buscar os dados correspondentes que você pode precisar da API coincap.
 
 Ativos
